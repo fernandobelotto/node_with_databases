@@ -1,0 +1,20 @@
+{
+  "name": "with-databases",
+  "version": "0.0.0",
+  "description": "how to connect node with databases",
+  "main": "",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Fernando Belotto",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mongodb": "^4.6.0",
+    "pg": "^8.7.3",
+    "redis": "^4.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
